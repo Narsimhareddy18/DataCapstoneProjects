@@ -2,7 +2,7 @@
 # 911 Emergency Call Data Analysis
 
 ## Project Overview
-This project analyzes 911 emergency call data from Montgomery County, Pennsylvania. The main goal is to explore, visualize, and derive insights from the dataset to understand patterns in emergency calls.
+This project analyzes 911 emergency call data . The main goal is to explore, visualize, and derive insights from the dataset to understand patterns in emergency calls.
 
 ## Dataset Description
 - `lat`: Latitude of the call
@@ -58,3 +58,8 @@ This project analyzes 911 emergency call data from Montgomery County, Pennsylvan
 ##  Conclusion
 This project demonstrates how to process, explore, and extract meaningful insights from real-world emergency call data using Python.
 
+## Output Summary
+- Visuals showing call distribution by type (EMS, Fire, Traffic)
+- Trends in emergency calls across different times and days
+- Geographical heatmaps based on call volume by township
+- Peak hours and days with the highest number of 911 calls
