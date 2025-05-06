@@ -37,7 +37,7 @@ This project analyzes 911 emergency call data . The main goal is to explore, vis
    - Plot call distribution by township and zipcode.
 
 4. **Geospatial Analysis**:
-   - Plot locations of emergency calls using latitude and longitude.
+ - Plot locations of emergency calls using latitude and longitude.
 
 ##  Key Insights
 - Most calls are EMS-related.
